@@ -11,7 +11,7 @@ Capture The Flag (CTF) competitions are cybersecurity challenges designed to tes
 Browse our collection of writeups to learn how participants solved challenges from past CTF competitions. Each writeup provides a detailed explanation of the challenge, the solution approach, and any relevant tools or techniques used.
 Example: 
 
-- [Google CTF 2018](Google/GoogleCTF2018-Shall_We_Play_a_Game/README.md)
+- [Google CTF 2018](mobile/Google/GoogleCTF2018-Shall_We_Play_a_Game/README.md)
 
 ## Tutorials
 
