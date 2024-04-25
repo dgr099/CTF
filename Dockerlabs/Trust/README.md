@@ -2,6 +2,7 @@
 
 
 ## Lab configuration:
+
 ![](images/image-000.png)
 First we extract the downloaded zip file, after that we get two files, the image of the machine and a script for its deployment.
 
@@ -15,6 +16,7 @@ It then verifies the installation of Docker and the presence of a .tar file. Upo
 Finally, it displays the IP address of the container and remains in an infinite loop to keep the script running until the user interrupts it.
 
 We launch the script and get the IP of the vulnerable machine.
+
 ![](images/image-002.png)
 ![](images/image-003.png) 
 
