@@ -4,6 +4,7 @@
 ## Lab configuration:
 
 ![](images/image-000.png)
+
 First we extract the downloaded zip file, after that we get two files, the image of the machine and a script for its deployment.
 
 Always before launching a script look at its content, never execute with sudo files that you do not know how it works.
