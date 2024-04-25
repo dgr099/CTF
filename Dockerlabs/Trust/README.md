@@ -28,7 +28,7 @@ The nmap command is used to perform network scans and gather information about h
 
 **Arguments:**
 
-- sC: This argument instructs Nmap to perform a service scan. This means that Nmap will attempt to identify which services are running on open ports on the target machine.
+- sC: Equivalent to --script=default
 
 - sV: This argument instructs Nmap to attempt to identify the version of the services being detected. This can be useful to determine if a particular service has known vulnerabilities.
 
