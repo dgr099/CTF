@@ -1,11 +1,5 @@
-<style>
-.font-0 {
-    font-family: AAAAAA+ArialMT, sans-serif;
-    font-size: 17px;
-    color: ##000000;
-}
+# Vacaciones
 
-</style>
 ![Image](images/output-1_1.png)
 
 <span class="font-0">The first step will be to deploy the docker container and check if we can establish</span>
