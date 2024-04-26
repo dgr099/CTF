@@ -2,7 +2,9 @@
 
 
 ## Lab configuration:
+
 ![](images/image-000.png)
+
 First we extract the downloaded zip file, after that we get two files, the image of the machine and a script for its deployment.
 
 Always before launching a script look at its content, never execute with sudo files that you do not know how it works.
@@ -15,6 +17,7 @@ It then verifies the installation of Docker and the presence of a .tar file. Upo
 Finally, it displays the IP address of the container and remains in an infinite loop to keep the script running until the user interrupts it.
 
 We launch the script and get the IP of the vulnerable machine.
+
 ![](images/image-002.png)
 ![](images/image-003.png) 
 
@@ -25,7 +28,7 @@ The nmap command is used to perform network scans and gather information about h
 
 **Arguments:**
 
-- sC: This argument instructs Nmap to perform a service scan. This means that Nmap will attempt to identify which services are running on open ports on the target machine.
+- sC: Equivalent to --script=default.
 
 - sV: This argument instructs Nmap to attempt to identify the version of the services being detected. This can be useful to determine if a particular service has known vulnerabilities.
 
