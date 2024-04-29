@@ -1,30 +1,5 @@
-<style>
-.font-0 {
-    font-family: AAAAAA+ArialMT, sans-serif;
-    font-size: 39px;
-    color: ##000000;
-}
 
-.font-1 {
-    font-family: AAAAAA+ArialMT, sans-serif;
-    font-size: 17px;
-    color: ##000000;
-}
-
-.font-2 {
-    font-family: BAAAAA+Roboto, sans-serif;
-    font-size: 18px;
-    color: #0d0d0d;
-}
-
-.font-3 {
-    font-family: CAAAAA+RobotoMono, sans-serif;
-    font-size: 18px;
-    color: #178037;
-}
-
-</style>
-<span class="font-0">Upload</span><br>
+## <span class="font-0">Upload</span><br>
 
 ![Image](images/output-1_1.png)
 
